@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Thomas-Marik
-- 👀 I’m interested in sports, games, and animals
-- 🌱 I’m currently learning more java, pyhton, c# , hyml, css, and Javascript
+- 👀 I’m interested in sports, games, animals, and software development
+- 🌱 I’m currently learned on React and React Native, but look to develop mys kills in languages.
 - 💞️ I’m looking to collaborate on projects to develop my skills further
 - 📫 How to reach me email sunracer1977@gmail.com
 
